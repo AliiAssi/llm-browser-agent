@@ -65,7 +65,7 @@ KamKalima is a digital Arabic language learning platform designed to support edu
 ## 👤 Author
 
 **Ali Assi**  
-[LinkedIn](https://linkedin.com/in/aliassi) · [GitHub](https://github.com/AliiAssi)
+[LinkedIn](https://linkedin.com/in/aliassii) · [GitHub](https://github.com/AliiAssi)
 
 ---
 
